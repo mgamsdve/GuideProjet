@@ -81,7 +81,7 @@ require_once("Config/connectDatabase.php");
 
 Créer : `Views/base.php`
 
-```php
+```html
 <!DOCTYPE html>
 <html lang="fr">
 
@@ -132,7 +132,7 @@ if ($uri == "/index.php" || $uri == "/") {
 
 Créer : `Views/tonProjet/pageAccueil.php`
 
-```php
+```html
 <h1>Bienvenue sur mon projet</h1>
 <h2>Accueil</h2>
 
