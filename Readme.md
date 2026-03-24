@@ -10,8 +10,14 @@ Les deux versions Google Docs des fichiers de référence sont ici :
 - [Vue globale du projet](https://docs.google.com/document/d/10xwMY_bJuB04vr-UccYx0ge9b2Uhkl1ibRsBFgzXw4A/edit?usp=sharing)
 - [Google Slides] : https://docs.google.com/presentation/d/1oUtDvOm9PPslUE7LXXXopBRl5ctr8XTi/edit?usp=sharing&ouid=115021727874337636729&rtpof=true&sd=true 
 - [Site en ligne] : https://bookroom-wheat.vercel.app/
-  mot de passe admin : ```test123```
-  utilisateur admin : ```secure@demo.be```
+- mot de passe admin : 
+  ```php
+   test123
+  ```
+- utilisateur admin : 
+- ```php
+   secure@demo.be
+  ```
 - [Repo complet du code] : https://github.com/mgamsdve/5TTI_DayaniPoty_Mael_ProjetSalle 
 
 ## À quoi sert ce repo
