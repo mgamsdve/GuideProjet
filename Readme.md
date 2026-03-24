@@ -24,7 +24,10 @@ Les deux versions Google Docs des fichiers de référence sont ici :
 
 - [Guide de démarrage](https://docs.google.com/document/d/1kcZQ4TD_iVnpl2muefRgbzKPXGCY6HY7BEIKFl5jEms/edit?usp=sharing)
 - [Vue globale du projet](https://docs.google.com/document/d/10xwMY_bJuB04vr-UccYx0ge9b2Uhkl1ibRsBFgzXw4A/edit?usp=sharing)
-- google slides : https://docs.google.com/presentation/d/1oUtDvOm9PPslUE7LXXXopBRl5ctr8XTi/edit?usp=sharing&ouid=115021727874337636729&rtpof=true&sd=true 
+- [Google Slides] : https://docs.google.com/presentation/d/1oUtDvOm9PPslUE7LXXXopBRl5ctr8XTi/edit?usp=sharing&ouid=115021727874337636729&rtpof=true&sd=true 
+- [Site en ligne] : https://bookroom-wheat.vercel.app/
+  mot de passe admin : ```test123```
+  utilisateur admin : ```secure@demo.be```
 ## Démarrage rapide
 
 1. Lire le guide de démarrage pour comprendre la structure attendue.
