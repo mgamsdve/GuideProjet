@@ -2,7 +2,7 @@
 
 Ce dépôt contient la base d'un projet web en architecture MVC, pensé pour gérer des salles et leurs réservations.
 
-## Documentation complète
+## Lien Utiles
 
 - [Google Slides](https://docs.google.com/presentation/d/1oUtDvOm9PPslUE7LXXXopBRl5ctr8XTi/edit?usp=sharing&ouid=115021727874337636729&rtpof=true&sd=true)
 - [Site Web](https://bookroom-wheat.vercel.app/)
@@ -20,6 +20,9 @@ Les deux versions Google Docs des fichiers de référence sont ici :
 
 - [Guide de démarrage](https://docs.google.com/document/d/1kcZQ4TD_iVnpl2muefRgbzKPXGCY6HY7BEIKFl5jEms/edit?usp=sharing)
 - [Vue globale du projet](https://docs.google.com/document/d/10xwMY_bJuB04vr-UccYx0ge9b2Uhkl1ibRsBFgzXw4A/edit?usp=sharing)
+  
+**aide de code ** :
+- [Gestion Complete de l'utilisateur et de sa session](https://github.com/mgamsdve/5TTI_DayaniPoty_Mael_ProjetSalle/blob/main/GuideProjet/session.md)
 
 ## À quoi sert ce repo
 
