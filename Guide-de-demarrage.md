@@ -3,7 +3,7 @@
 ## 1. Base de données (BDD)
 
 ### BDD vide
-- Exemple de Nathan
+- Exemple de Nathan : [voir l'exemple SQL complet](SQL/exemple-sql-nathan.md)
 - Être cohérent dans les nommages :
   - Choisir soit le pluriel, soit le singulier pour les entités (mais rester cohérent)
   - Utiliser des préfixes pour les champs (ex : `uti_nom`, `uti_email`, etc.)
@@ -76,6 +76,8 @@ require_once("Config/connectDatabase.php");
 ---
 
 ## 5. Mise en place du MVC (3 éléments en parallèle)
+
+Pour un mini-projet centré sur l'inscription, la connexion et la session utilisateur, voir aussi [le guide de session](guide-session.md).
 
 ### 5.1 Layout principal (base)
 

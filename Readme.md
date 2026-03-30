@@ -20,10 +20,8 @@ Les deux versions Google Docs des fichiers de référence sont ici :
 
 - [Guide de démarrage](https://docs.google.com/document/d/1kcZQ4TD_iVnpl2muefRgbzKPXGCY6HY7BEIKFl5jEms/edit?usp=sharing)
 - [Vue globale du projet](https://docs.google.com/document/d/10xwMY_bJuB04vr-UccYx0ge9b2Uhkl1ibRsBFgzXw4A/edit?usp=sharing)
+- [Guide session](guide-session.md)
   
-**aide de code** :
-- [Gestion Complete de l'utilisateur et de sa session](https://github.com/mgamsdve/5TTI_DayaniPoty_Mael_ProjetSalle/blob/main/GuideProjet/session.md)
-
 ## À quoi sert ce repo
 
 - `Guide-de-demarrage.md` : guide de démarrage technique pour structurer le projet, connecter la base de données et mettre en place le MVC.
